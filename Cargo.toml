@@ -1,0 +1,8 @@
+[package]
+name = "libnri"
+version = "0.1.0"
+authors = ["Haptics NUC <hapticsnuc@alexburka.com>"]
+
+[lib]
+name = "nri"
+crate-type = ["dylib"]
